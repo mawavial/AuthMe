@@ -5,15 +5,15 @@ VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "AuthenticateMe\API.csproj", "{F66AEA18-F1B2-49E0-BD73-201E71E24E24}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.User", "Domain\Domain.User.csproj", "{250344EE-3758-4810-95CF-4215C20C3F76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.User", "Domain.User\Domain.User.csproj", "{250344EE-3758-4810-95CF-4215C20C3F76}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{D03EC2C0-887F-4333-B7B8-B5584D999F66}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "UnitTest\UnitTest.csproj", "{118BBC4C-E194-4851-9C60-D582A87ECA27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Security", "Domain.Security\Domain.Security.csproj", "{1F90CD1A-87D9-415A-AAC6-D223EFC45D51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Security", "Domain.Security\Domain.Security.csproj", "{1F90CD1A-87D9-415A-AAC6-D223EFC45D51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{3ED71737-03D3-4EED-8409-D67B5D31581B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{3ED71737-03D3-4EED-8409-D67B5D31581B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
